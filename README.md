@@ -18,3 +18,4 @@
    `src/pages/frontend`
 
 2. Import หน้า LeaseAgreementPage ใน App.jsx
+   [room](https://github.com/youngtoh/staff-tulip/blob/c2c08a6f7514356f5edb1cf59b486c1d63327a28/LeaseAgreementPage)

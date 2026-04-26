@@ -2,8 +2,10 @@
 1. วาง 2 ไฟล์ในโปรเจกต์ (StaffRoomDashboard.jsx , StaffRoomDashboard.css)
    tulip-mansion-system\frontend
 2. Import หน้า StaffRoomDashboard ใน App.jsx
+
+   
    import StaffRoomDashboard from "./pages/staff-room-dashboard/StaffRoomDashboard";
-3. ผูกกับเมนู Room Management
+4. ผูกกับเมนู Room Management
    const renderContent = () => {
   switch (menu) {
     case "rooms":
@@ -20,7 +22,7 @@
       return <div>หน้านี้อยู่ระหว่างพัฒนา</div>;
   }
 };  
-4. Backend ที่ต้องใช้
+5. Backend ที่ต้องใช้
    app.get('/api/staff/rooms', async (req, res) => {
   const db = openDb();
 

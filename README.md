@@ -1,5 +1,5 @@
 # วิธีใช้งานหน้า StaffRoomDashboard
-1. วาง 2 ไฟล์ในโปรเจกต์ (StaffRoomDashboard.jsx , StaffRoomDashboard.css)
+1. วาง 2 ไฟล์ในโปรเจกต์ [file](https://github.com/youngtoh/staff-tulip/tree/8fb89e9a465a12908f7db02e795692f0c388f3ad/staff-room-dashboard)
    
    `tulip-mansion-system\frontend`
 2. Import หน้า StaffRoomDashboard ใน App.jsx

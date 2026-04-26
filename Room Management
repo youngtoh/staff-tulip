@@ -1,0 +1,16 @@
+const renderContent = () => {
+  switch (menu) {
+    case "rooms":
+      return <StaffRoomDashboard />;
+
+    // case อื่น ๆ ของระบบ
+    case "home":
+      return <StaffPage master={master} />;
+
+    case "settings":
+      return <Settings />;
+
+    default:
+      return <div>หน้านี้อยู่ระหว่างพัฒนา</div>;
+  }
+};

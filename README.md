@@ -27,3 +27,4 @@
    [db](https://github.com/youngtoh/staff-tulip/blob/5233606729cee603e21f829e234ee5f017c1d0b9/tulip.db)
 
 5. เพิ่ม column สำหรับ Lease ใน server.js
+   [column sv]https://github.com/youngtoh/staff-tulip/blob/5f4b576b411d72854031825c0da143644ec05cc0/column-initDb()

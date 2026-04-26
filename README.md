@@ -25,3 +25,5 @@
 
 4. Database ที่ใช้
    [db](https://github.com/youngtoh/staff-tulip/blob/5233606729cee603e21f829e234ee5f017c1d0b9/tulip.db)
+
+5. เพิ่ม column สำหรับ Lease ใน server.js

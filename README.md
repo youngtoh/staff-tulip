@@ -1,7 +1,7 @@
 # วิธีใช้งานหน้า StaffRoomDashboard
 1. วาง 2 ไฟล์ในโปรเจกต์ [file01](https://github.com/youngtoh/staff-tulip/tree/8fb89e9a465a12908f7db02e795692f0c388f3ad/staff-room-dashboard)
    
-   `tulip-mansion-system\frontend`
+   `src/pages/frontend`
 2. Import หน้า StaffRoomDashboard ใน App.jsx
    [room](https://github.com/youngtoh/staff-tulip/blob/b6cc7ca3b2dff85375097ee241fb2bebbedb5b0f/import)
 
@@ -13,4 +13,8 @@
 
 
 # วิธีใช้งานหน้า Lease & Agreement
-1. วาง 2 ไฟล์ในโปรเจกต์
+1. วาง 2 ไฟล์ในโปรเจกต์ [file02](https://github.com/youngtoh/staff-tulip/tree/fc5de1484cda0b99fd3f5d3b6b15aef31a626dd3/lease-agreement)
+   
+   `src/pages/frontend`
+
+2. Import หน้า LeaseAgreementPage ใน App.jsx

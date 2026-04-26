@@ -1,0 +1,5 @@
+try { await runAsync(db, `ALTER TABLE users ADD COLUMN lease_id TEXT`); } catch (e) {}
+try { await runAsync(db, `ALTER TABLE users ADD COLUMN lease_room TEXT`); } catch (e) {}
+try { await runAsync(db, `ALTER TABLE users ADD COLUMN lease_months INTEGER`); } catch (e) {}
+try { await runAsync(db, `ALTER TABLE users ADD COLUMN lease_payment_method TEXT`); } catch (e) {}
+try { await runAsync(db, `ALTER TABLE users ADD COLUMN lease_image TEXT`); } catch (e) {}

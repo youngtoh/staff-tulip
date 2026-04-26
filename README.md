@@ -25,6 +25,8 @@
   }
 };  
 6. Backend ที่ต้องใช้
+
+
    app.get('/api/staff/rooms', async (req, res) => {
   const db = openDb();
 

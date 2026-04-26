@@ -4,4 +4,4 @@
    tulip-mansion-system\frontend
 3. Import หน้า StaffRoomDashboard ใน App.jsx
    
-   [import](https://github.com/youngtoh/staff-tulip/blob/b6cc7ca3b2dff85375097ee241fb2bebbedb5b0f/import)
+   [room](https://github.com/youngtoh/staff-tulip/blob/b6cc7ca3b2dff85375097ee241fb2bebbedb5b0f/import)

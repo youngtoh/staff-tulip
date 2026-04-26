@@ -6,6 +6,8 @@
    
    import StaffRoomDashboard from "./pages/staff-room-dashboard/StaffRoomDashboard";
 4. ผูกกับเมนู Room Management
+
+   
    const renderContent = () => {
   switch (menu) {
     case "rooms":
@@ -22,7 +24,7 @@
       return <div>หน้านี้อยู่ระหว่างพัฒนา</div>;
   }
 };  
-5. Backend ที่ต้องใช้
+6. Backend ที่ต้องใช้
    app.get('/api/staff/rooms', async (req, res) => {
   const db = openDb();
 

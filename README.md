@@ -8,5 +8,5 @@
 3. ผูกกับเมนู Room Management ใน App.jsx
    [management](https://github.com/youngtoh/staff-tulip/blob/38deb17cd062cfaf4817c4aa98297de7efaeeca3/Room%20Management)
 
-4. Backend server.js
+4. Backend server
    [server.js](https://github.com/youngtoh/staff-tulip/blob/da5345d41a358147a6838e06464e7da82d46f018/backend%20server.js)

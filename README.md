@@ -6,7 +6,7 @@
    [room](https://github.com/youngtoh/staff-tulip/blob/b6cc7ca3b2dff85375097ee241fb2bebbedb5b0f/import)
 
 3. ผูกกับเมนู Room Management ใน App.jsx
-   [management](https://github.com/youngtoh/staff-tulip/blob/38deb17cd062cfaf4817c4aa98297de7efaeeca3/Room%20Management)
+   [menu01](https://github.com/youngtoh/staff-tulip/blob/38deb17cd062cfaf4817c4aa98297de7efaeeca3/Room%20Management)
 
 4. Backend server
    [server.js](https://github.com/youngtoh/staff-tulip/blob/da5345d41a358147a6838e06464e7da82d46f018/backend%20server.js)
@@ -21,3 +21,4 @@
    [lease](https://github.com/youngtoh/staff-tulip/blob/c2c08a6f7514356f5edb1cf59b486c1d63327a28/LeaseAgreementPage)
 
 3. ผูกกับเมนู Lease & Agreement ใน App.jsx
+   [menu02]https://github.com/youngtoh/staff-tulip/blob/3abb3ae824d514cf3a225c90e11e385a219d02d5/Lease%20%26%20Agreement

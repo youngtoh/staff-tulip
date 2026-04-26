@@ -89,7 +89,7 @@ app.get('/api/staff/rooms', async (req, res) => {
   } finally {
     db.close();
   }
-});
+}); }
 
 ให้วาง endpoint นี้ใน server.js ก่อนบรรทัด:
   const PORT = process.env.PORT || 3000;
